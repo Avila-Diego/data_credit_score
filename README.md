@@ -32,12 +32,6 @@ Las tablas clave incluyen:
 
 La vista permite a los usuarios recuperar fácilmente una vista consolidada de los datos, incluyendo las puntuaciones de crédito de los clientes y su historial de préstamos.
 
-## Uso
-
-Para acceder a la base de datos y trabajar con los datos:
-1. Descarga el repositorio.
-2. Usa **SQLite3** para abrir el archivo de la base de datos y explora la vista `credit_data_view` para simplificar las consultas.
-
 
 - **Fuente de la informacion**: Kaggle - Dataset for Credit Score Classification
 <!--  https://www.kaggle.com/datasets/ayushsharma0812/dataset-for-credit-score-classification/data
